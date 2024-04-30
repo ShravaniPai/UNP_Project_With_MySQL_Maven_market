@@ -11,3 +11,5 @@ This project designs and implements a secure MySQL database schema for Maven Mar
 -This database will serve as a strong foundation for Maven Market to optimize operations, gain valuable customer insights, and make data-driven decisions for future success.
 
 PDF Link : https://drive.google.com/file/d/1BOHzF3IRZ566cQ0pUm0ejkzqSOjIfspT/view?usp=sharing
+
+PPT Link : https://drive.google.com/file/d/12-NnBhyjRsDqPqTE5QsxAGyEG2q8BT4f/view?usp=sharing
